@@ -1,0 +1,52 @@
+Welcome to https://repl.it/@kevinawalsh/JavaExercises
+
+This repository contains exercises for beginning Java programmers. These are 
+meant to give you additional practice. They are roughly in order of difficulty,
+but not entirely. Some involve mathematics or physics, but others don't, so feel 
+free to skip around to find ones you like.
+
+We may add new exercises from time to time, so check back later for more.
+
+What to do:
+  Click on one of the Java exercise files at the left, 
+  read the comments in the file and add your own code,
+  then click "run" above to test your solution.
+
+What you should see:
+  At the right, it will ask which exercise you would like to test.
+  Input the number (e.g. 3), then hit enter. It will then
+  compile your code with javac, and if all goes well, it will
+  then run your code with the java command.
+  Any errors compiling or running your code will appear on the
+  right side.
+  If your program uses keyboard input, just enter it using
+  the console at right, exactly as you would with a regular
+  terminal.
+
+Java programming:
+  You can use most any regular Java features, including printing,
+  keyboard input, Math, and so on. You can also use the Sedgewick & Wayne
+  Standard Library for Java Input/Output, as described here:
+    https://introcs.cs.princeton.edu/java/stdlib/
+  For example you can use:
+    StdIn.readString(); // get a word from keyboard
+    StdIn.readDouble(); // get a decimal number from keyboard
+    StdIn.readInt(); // get an integer from keyboard
+  and so on.
+
+Saving your work:
+  Each time you visit https://repl.it/@kevinawalsh/JavaExercises
+  you will start fresh. When you leave, your work will be discarded.
+  However, if you want to save your work and come back to it
+  a few minutes later, you can! 
+  Short-term saves: Simply start working, and notice that
+  the URL  in your browser will change to something different, like
+  https://repl.it/repls/WeeklyGargantuanPlot or some other random
+  title. You can use this random URL to come back, and all your
+  work will be there. This only works for a few minutes or hours,
+  however. If you leave your work for too long, it will disappear.
+  Permanent saves: You will need to create an account with 
+  https://repl.it/ and log in. Once logged in, come back to this
+  page -- any changes you make will now be saved in your account.
+
+Good luck, and happy programming!
